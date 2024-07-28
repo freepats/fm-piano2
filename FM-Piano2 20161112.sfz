@@ -1,0 +1,69 @@
+//+ Name: FM Piano 2
+//+ Date: 2016-11-12
+//+ URL: http://freepats.zenvoid.org/ElectricPiano/synthesized-piano.html#FM_Piano2
+
+<global>
+ //+ Instrument: FM Piano 2
+ ampeg_release=1.9
+
+<group>
+<region>
+ lokey=26
+ hikey=32
+ pitch_keycenter=30
+ sample=samples/F#1v80.flac
+<region>
+ lokey=33
+ hikey=38
+ pitch_keycenter=36
+ sample=samples/C2v80.flac
+<region>
+ lokey=39
+ hikey=44
+ pitch_keycenter=42
+ sample=samples/F#2v80.flac
+<region>
+ lokey=45
+ hikey=50
+ pitch_keycenter=48
+ sample=samples/C3v80.flac
+<region>
+ lokey=51
+ hikey=56
+ pitch_keycenter=54
+ sample=samples/F#3v80.flac
+<region>
+ lokey=57
+ hikey=62
+ pitch_keycenter=60
+ sample=samples/C4v80.flac
+<region>
+ lokey=63
+ hikey=68
+ pitch_keycenter=66
+ sample=samples/F#4v80.flac
+<region>
+ lokey=69
+ hikey=74
+ pitch_keycenter=72
+ sample=samples/C5v80.flac
+<region>
+ lokey=75
+ hikey=80
+ pitch_keycenter=78
+ sample=samples/F#5v80.flac
+<region>
+ lokey=81
+ hikey=86
+ pitch_keycenter=84
+ sample=samples/C6v80.flac
+<region>
+ lokey=87
+ hikey=92
+ pitch_keycenter=90
+ sample=samples/F#6v80.flac
+<region>
+ lokey=93
+ hikey=103
+ pitch_keycenter=96
+ sample=samples/C7v80.flac
